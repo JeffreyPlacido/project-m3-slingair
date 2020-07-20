@@ -72,3 +72,35 @@ _Note that mutated test data will be preserved as long as your server is running
    - this page should display a table of all seats, and their status.
 4. The admin page also displays the name of the user in the seat.
 5. Each seat also has a link to view the reservation details.
+
+
+
+
+New Dev Feedback
+
+What i've managed to accomplish
+
+<img src='public/images/screenshots/12.png'/>
+<img src='public/images/screenshots/13.png'/>
+<img src='public/images/screenshots/14.png'/>
+<img src='public/images/screenshots/15.png'/>
+
+
+-Working Dropdown that displays all flights and seats
+-seats display availibilty
+-customer can pick a seat and fill out info and send
+-recieves a confirmation and ID
+-Id can be used to check reservation
+-the same email cant be used twice
+-links to return to seat select at confirmation page at confirmation and reservation page
+
+
+Overall I am still struggling with certain aspects of code, the dropdown menu was a pretty big hurdle
+as I wanted to create a dropdown that added any new flights to the dropdown instead of having a static list.
+
+Another aspect that I personally struggled with was the events, a lot of it had to do with having not done some in a while.
+Overall the project went well, I am a little discouraged as it took me a bit longer than three days to complete, by 4 days I had an MVP but I wont lie and sayIi didnt work a fifth day to try and make it more refined. The Project was a struggle but overall I am glad by what I managed to learn through the experience.
+
+Future improvements, allow the user to select multiple seats, or link API for live server
+
+
